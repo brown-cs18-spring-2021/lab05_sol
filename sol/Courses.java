@@ -1,10 +1,10 @@
-package lab07.sol;
+package sol;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class findCourses {
+public class Courses {
   /**
    *
    * @param input a string
